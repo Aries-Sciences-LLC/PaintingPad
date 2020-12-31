@@ -1,0 +1,6 @@
+framework module Persei {
+  umbrella header "Persei-umbrella.h"
+
+  export *
+  module * { export * }
+}

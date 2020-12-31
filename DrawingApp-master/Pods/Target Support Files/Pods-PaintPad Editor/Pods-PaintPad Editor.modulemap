@@ -1,6 +1,0 @@
-framework module Pods_PaintPad_Editor {
-  umbrella header "Pods-PaintPad Editor-umbrella.h"
-
-  export *
-  module * { export * }
-}
