@@ -12,7 +12,7 @@ The design is simple and minimalistic so that you can freely let your thoughts a
 Have fun!
 
 # Screenshots
-![Page 1]()
-![Page 2]()
-![Page 3]()
-![Page 4]()
+![Page 1](https://github.com/Aries-Sciences-LLC/Paint-Pad/blob/master/Advertising/iPad%20Mockups/page1.png)
+![Page 2](https://github.com/Aries-Sciences-LLC/Paint-Pad/blob/master/Advertising/iPad%20Mockups/page2.png)
+![Page 3](https://github.com/Aries-Sciences-LLC/Paint-Pad/blob/master/Advertising/iPad%20Mockups/page3.png)
+![Page 4](https://github.com/Aries-Sciences-LLC/Paint-Pad/blob/master/Advertising/iPad%20Mockups/page4.png)
