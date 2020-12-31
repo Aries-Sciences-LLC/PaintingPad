@@ -1,5 +1,5 @@
 # Paint Pad
-![App Icon]()
+![App Icon](https://github.com/Aries-Sciences-LLC/Paint-Pad/blob/master/iOS%20icons%20(App%20Icon)/RoundedIcon.png)
 
 This is a simple painting app that lets you draw in any color you desire on your perfect blank canvas...
 
